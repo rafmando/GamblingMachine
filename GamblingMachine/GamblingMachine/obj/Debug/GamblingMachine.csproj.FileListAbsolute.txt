@@ -1,0 +1,6 @@
+/Users/rafael/Projects/GamblingMachine/GamblingMachine/bin/Debug/GamblingMachine.exe
+/Users/rafael/Projects/GamblingMachine/GamblingMachine/bin/Debug/GamblingMachine.pdb
+/Users/rafael/Projects/GamblingMachine/GamblingMachine/obj/Debug/GamblingMachine.csprojAssemblyReference.cache
+/Users/rafael/Projects/GamblingMachine/GamblingMachine/obj/Debug/GamblingMachine.csproj.CoreCompileInputs.cache
+/Users/rafael/Projects/GamblingMachine/GamblingMachine/obj/Debug/GamblingMachine.exe
+/Users/rafael/Projects/GamblingMachine/GamblingMachine/obj/Debug/GamblingMachine.pdb

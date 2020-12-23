@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamblingMachine", "GamblingMachine\GamblingMachine.csproj", "{177AB6B4-38AA-48FA-9346-3001E85F6AEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{177AB6B4-38AA-48FA-9346-3001E85F6AEF}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{177AB6B4-38AA-48FA-9346-3001E85F6AEF}.Debug|anycpu.Build.0 = Debug|anycpu
+		{177AB6B4-38AA-48FA-9346-3001E85F6AEF}.Release|anycpu.ActiveCfg = Release|anycpu
+		{177AB6B4-38AA-48FA-9346-3001E85F6AEF}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9A3400E-9FBB-4C06-8AC9-C1DA765B72A5}
+	EndGlobalSection
+EndGlobal
